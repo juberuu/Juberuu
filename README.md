@@ -16,7 +16,7 @@ Most teams discover their AI agents are broken the same way:
 
 **By then, it's already expensive.**
 
-I build the verification layers that catch these issues **before they scale** — in local dev, at the edge, and in production.
+I build the verification layers that catch these issues **before they scale**, at the edge, and in production.
 
 ---
 
@@ -24,7 +24,7 @@ I build the verification layers that catch these issues **before they scale** �
 
 | Layer | What I Deliver |
 |-------|----------------|
-| **Local & Edge AI Agents** | Python + Playwright + human-in-the-loop. Runs where your data lives. |
+| **Edge AI Agents** | Python + Playwright + human-in-the-loop. Runs where your data lives. |
 | **MCP Servers** | Production-ready Model Context Protocol endpoints. |
 | **Agentic RAG Pipelines** | Retrieval that actually retrieves — not guesses. |
 | **Federated Knowledge Commons** | ActivityPub-based, verifiable, decentralized. Fights knowledge collapse. |
@@ -48,7 +48,7 @@ I build the verification layers that catch these issues **before they scale** �
 
 ## 🧠 Current Focus
 
-- **Local Python AI agents** — including my SEO Audit Agent that fixed my own domains  
+- **Python AI agents** — including my SEO Audit Agent that fixed my own domains  
 - **Federated knowledge systems** — because centralized AI is collapsing into the same answers
 
 ---

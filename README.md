@@ -2,11 +2,48 @@
   <h2>💦 AI & Full Stack Engineer | LLMs | Systems Architecture | Cloud Infrastructure engineer 💦</h2>
 </div>
 
-I am an **AI and Full-Stack Engineer** focused on building scalable, production-grade systems powered by modern AI. My expertise spans **LLMs, agent architectures, RAG systems, and applied machine learning**, combined with strong capabilities across **frontend, backend, and cloud infrastructure**.
+Exceeding expectations. Building products that move businesses forward.
 
-I design and deliver **end to end solutions** from intelligent AI agents and data pipelines to high performance web/mobile applications and distributed systems. My work includes **LLM powered applications, autonomous workflows, real time AI systems, and developer platforms**, all built with a strong emphasis on **reliability, observability, and scalability**.
+As I'm a senior software engineer, I led a full-stack software engineering team focused on delivering scalable, high-performance digital products across web, mobile, cloud, AI, and automation platforms.
 
-On the infrastructure side, I specialize in **cloud native architectures (AWS/GCP)**, **containerization (Docker)**, **orchestration**, **CI/CD pipelines**, and **system performance optimization**, ensuring that AI systems are not just functional, but **production-ready and cost-efficient**.
+I help startups, growing businesses, and product teams design, build, and scale production-ready applications with modern architecture and practical AI integration.
+
+With 7+ years of hands-on engineering experience and a broader team with 7+ years delivering digital products, we build software that is scalable, maintainable, secure, and aligned with business outcomes from day one.
+
+From architecture and MVP development to deployment and long-term scaling, we focus on turning ideas into reliable products that improve operations, automate workflows, and create better user experiences.
+
+What We Deliver
+AI-powered business automation and workflow systems
+Custom web applications and SaaS platforms
+Cross-platform mobile applications
+Scalable backend systems, APIs, and cloud architecture
+E-commerce solutions with Shopify, BigCommerce, WooCommerce, and Magento
+Product optimization, testing, monitoring, and CI/CD
+UI/UX-focused product development
+Blockchain and dApp product development
+AI & Automation Expertise
+
+I specialize in applying AI where it creates measurable product value:
+
+Intelligent workflow automation
+LLM-powered assistants and conversational systems
+Recommendation engines and personalization
+Predictive analytics and data-driven product features
+Integration with OpenAI APIs and custom ML services
+End-to-end AI pipelines from data processing to deployment
+Core Strengths
+End-to-end ownership
+
+From product planning and system architecture to deployment and scaling.
+
+Scalable architecture
+Built for performance, maintainability, and long-term growth.
+Business-first engineering
+Technology choices focused on speed, cost-efficiency, and product outcomes.
+Reliable execution
+Clear communication, clean code, and practical delivery.
+
+If you need a software engineer that can architect, build, and scale modern digital products — while integrating practical AI capabilities where they create real business value — I'm ready to help.
 
 <br/>
 

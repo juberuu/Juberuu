@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>💦 AI & Full Stack Engineer | LLMs | Systems Architecture | Cloud Infrastructure engineer 💦</h2>
+  <h2>💦 AI & Full Stack Engineer 💦</h2>
 </div>
 
 Exceeding expectations. Building products that move businesses forward.

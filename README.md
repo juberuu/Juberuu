@@ -12,7 +12,7 @@ With 7+ years of hands-on engineering experience and a broader team with 7+ year
 
 From architecture and MVP development to deployment and long-term scaling, we focus on turning ideas into reliable products that improve operations, automate workflows, and create better user experiences.
 
-What We Deliver
+What I Deliver
 AI-powered business automation and workflow systems
 Custom web applications and SaaS platforms
 Cross-platform mobile applications

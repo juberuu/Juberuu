@@ -2,48 +2,30 @@
   <h2>💦 AI & Full Stack Engineer 💦</h2>
 </div>
 
-Exceeding expectations. Building products that move businesses forward.
+### Senior Software Engineer | Full-Stack, AI & Cloud
 
-As I'm a senior software engineer, I led a full-stack software engineering team focused on delivering scalable, high-performance digital products across web, mobile, cloud, AI, and automation platforms.
+I’m a Senior Software Engineer with **7+ years of experience** building scalable, production-ready digital products across web, mobile, cloud, AI, and automation.
 
-I help startups, growing businesses, and product teams design, build, and scale production-ready applications with modern architecture and practical AI integration.
+I help startups and product teams turn ideas into reliable software — from architecture and MVP development to deployment and long-term scaling.
 
-With 7+ years of hands-on engineering experience and a broader team with 7+ years delivering digital products, we build software that is scalable, maintainable, secure, and aligned with business outcomes from day one.
+**What I Build**
 
-From architecture and MVP development to deployment and long-term scaling, we focus on turning ideas into reliable products that improve operations, automate workflows, and create better user experiences.
+* Full-stack web applications & SaaS platforms
+* Cross-platform mobile applications
+* Scalable backend systems, APIs & cloud infrastructure
+* AI-powered automation and intelligent workflows
+* LLM assistants, recommendation systems & predictive features
+* E-commerce platforms and integrations
+* CI/CD, monitoring, testing & performance optimization
+* Blockchain and dApp solutions
 
-What I Deliver
-AI-powered business automation and workflow systems
-Custom web applications and SaaS platforms
-Cross-platform mobile applications
-Scalable backend systems, APIs, and cloud architecture
-E-commerce solutions with Shopify, BigCommerce, WooCommerce, and Magento
-Product optimization, testing, monitoring, and CI/CD
-UI/UX-focused product development
-Blockchain and dApp product development
-AI & Automation Expertise
+**Core Stack**
+JavaScript / TypeScript • React • Next.js • Node.js • Python • FastAPI • SQL • AWS • Docker • AI/LLMs • OpenAI APIs
 
-I specialize in applying AI where it creates measurable product value:
+I focus on **clean architecture, scalability, maintainability, security, and measurable business value**.
 
-Intelligent workflow automation
-LLM-powered assistants and conversational systems
-Recommendation engines and personalization
-Predictive analytics and data-driven product features
-Integration with OpenAI APIs and custom ML services
-End-to-end AI pipelines from data processing to deployment
-Core Strengths
-End-to-end ownership
+If you’re building a modern digital product and need an engineer who can architect, build, and scale it from end to end, I’m ready to help.
 
-From product planning and system architecture to deployment and scaling.
-
-Scalable architecture
-Built for performance, maintainability, and long-term growth.
-Business-first engineering
-Technology choices focused on speed, cost-efficiency, and product outcomes.
-Reliable execution
-Clear communication, clean code, and practical delivery.
-
-If you need a software engineer that can architect, build, and scale modern digital products — while integrating practical AI capabilities where they create real business value — I'm ready to help.
 
 <br/>
 

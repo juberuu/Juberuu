@@ -1,12 +1,12 @@
 <div align="center">
-  <h2>💦 AI & Full Stack Engineer 💦</h2>
+  <h2>ðŸ’¦ AI & Full Stack Engineer ðŸ’¦</h2>
 </div>
 
 ### Senior Software Engineer | Full-Stack, AI & Cloud
 
 I'm a Senior Software Engineer with **7+ years of experience** building scalable, production-ready digital products across web, mobile, cloud, AI, and automation.
 
-I help startups and product teams turn ideas into reliable software — from architecture and MVP development to deployment and long-term scaling.
+I help startups and product teams turn ideas into reliable software â€” from architecture and MVP development to deployment and long-term scaling.
 
 **What I Build**
 
@@ -20,11 +20,14 @@ I help startups and product teams turn ideas into reliable software — from arc
 * Blockchain and dApp solutions
 
 **Core Stack**
-JavaScript / TypeScript • React • Next.js • Node.js • Python • FastAPI • SQL • AWS • Docker • AI/LLMs • OpenAI APIs
+JavaScript / TypeScript â€¢ React â€¢ Next.js â€¢ Node.js â€¢ Python â€¢ FastAPI â€¢ SQL â€¢ AWS â€¢ Docker â€¢ AI/LLMs â€¢ OpenAI APIs
 
 I focus on **clean architecture, scalability, maintainability, security, and measurable business value**.
 
 If you're building a modern digital product and need an engineer who can architect, build, and scale it from end to end, I'm ready to help.
+
+**Collaborators**
+README copy edited with [Elio Hassak](https://github.com/umaparte172-bit).
 
 
 <br/>

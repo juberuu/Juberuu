@@ -4,7 +4,7 @@
 
 ### Senior Software Engineer | Full-Stack, AI & Cloud
 
-I’m a Senior Software Engineer with **7+ years of experience** building scalable, production-ready digital products across web, mobile, cloud, AI, and automation.
+I'm a Senior Software Engineer with **7+ years of experience** building scalable, production-ready digital products across web, mobile, cloud, AI, and automation.
 
 I help startups and product teams turn ideas into reliable software — from architecture and MVP development to deployment and long-term scaling.
 
@@ -24,7 +24,7 @@ JavaScript / TypeScript • React • Next.js • Node.js • Python • FastAPI
 
 I focus on **clean architecture, scalability, maintainability, security, and measurable business value**.
 
-If you’re building a modern digital product and need an engineer who can architect, build, and scale it from end to end, I’m ready to help.
+If you're building a modern digital product and need an engineer who can architect, build, and scale it from end to end, I'm ready to help.
 
 
 <br/>
@@ -119,4 +119,3 @@ If you’re building a modern digital product and need an engineer who can archi
 
 
 </p>
-
